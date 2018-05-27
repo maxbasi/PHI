@@ -1,0 +1,16 @@
+c:\users\maxbasi-yoga\documents\visual studio 2017\Projects\PHIdelity\PHIdelity\bin\Debug\PHIdelity.exe.config
+c:\users\maxbasi-yoga\documents\visual studio 2017\Projects\PHIdelity\PHIdelity\bin\Debug\PHIdelity.exe
+c:\users\maxbasi-yoga\documents\visual studio 2017\Projects\PHIdelity\PHIdelity\bin\Debug\PHIdelity.pdb
+c:\users\maxbasi-yoga\documents\visual studio 2017\Projects\PHIdelity\PHIdelity\obj\Debug\PHIdelity.Form1.resources
+c:\users\maxbasi-yoga\documents\visual studio 2017\Projects\PHIdelity\PHIdelity\obj\Debug\PHIdelity.Properties.Resources.resources
+c:\users\maxbasi-yoga\documents\visual studio 2017\Projects\PHIdelity\PHIdelity\obj\Debug\PHIdelity.csproj.GenerateResource.Cache
+c:\users\maxbasi-yoga\documents\visual studio 2017\Projects\PHIdelity\PHIdelity\obj\Debug\PHIdelity.exe
+c:\users\maxbasi-yoga\documents\visual studio 2017\Projects\PHIdelity\PHIdelity\obj\Debug\PHIdelity.pdb
+C:\Users\maxbasi-yoga\Documents\Visual Studio 2017\Projects\PHIdelity\PHIdelity\obj\Debug\PHIdelity.Form2.resources
+C:\Users\maxbasi-yoga\Documents\Visual Studio 2017\Projects\PHIdelity\PHIdelity\obj\Debug\PHIdelity.Nuovo.resources
+C:\Users\maxbasi-yoga\Documents\Visual Studio 2017\Projects\PHIdelity\PHIdelity\obj\Debug\PHIdelity.Form3.resources
+C:\Users\maxbasi-yoga\Documents\Visual Studio 2017\Projects\PHIdelity\PHIdelity\obj\Debug\PHIdelity.Uso.resources
+C:\Users\maxbasi-yoga\documents\visual studio 2017\Projects\PHIdelity\PHIdelity\obj\Debug\PHIdelity.csproj.CoreCompileInputs.cache
+C:\Users\maxbasi-yoga\documents\visual studio 2017\Projects\PHIdelity\PHIdelity\obj\Debug\PHIdelity.csproj.CopyComplete
+C:\Users\maxbasi-yoga\documents\visual studio 2017\Projects\PHIdelity\PHIdelity\obj\Debug\PHIdelity.Users.resources
+C:\Users\maxbasi-yoga\documents\visual studio 2017\Projects\PHIdelity\PHIdelity\obj\Debug\PHIdelity.csprojResolveAssemblyReference.cache
